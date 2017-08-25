@@ -19,7 +19,7 @@ export class TimerPage {
   public cookList = [
     {type:'oeuf', name:'coque', label: 'Oeuf à la coque', desc:'Oeuf à la coque', time:3, img: 'img/oeuf-a-la-coque.jpg', iconTimer:'img/sand-clock.jpg'},
     {type:'oeuf', name:'mollet', label: 'Oeuf de mollet', desc:'Oeuf de mollet', time:6, img: 'img/oeuf-mollet-2.jpg', iconTimer:'assets/icon/sand-clock.png'},
-    {type:'oeuf', name:'dur', label: 'Oeuf dur', desc:'Oeuf dur', time:10, img: 'img/oeuf-dur.jpg', iconTimer:'../../assets/img/sand-clock.jpg'},
+    {type:'oeuf', name:'dur', label: 'Oeuf dur', desc:'Oeuf dur', time:10, img: 'img/oeuf-dur.jpg', iconTimer:'img/sand-clock.jpg'},
     
     {type:'pates', name:'longue-aldente', label: 'pâtes longues', desc: 'Al dente', time:3, img: 'img/pates-longues.jpg', iconTimer:'../../assets/img/sand-clock.jpg'},
     {type:'pates', name:'longue-biencuite', label: 'pâtes longues', desc: 'Bien cuite', time:5, img: 'img/pates-longues.jpg', iconTimer:'../../assets/img/sand-clock.jpg'},
